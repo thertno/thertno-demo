@@ -15,5 +15,6 @@ public class Test {
         System.out.println("master commit");
         System.out.println("issul-1 tag test");
         System.out.println("issul-1 tag test");
+        System.out.println("issul-1 tag test");
     }
 }
